@@ -127,6 +127,13 @@ ul li a{
 
 }
 
+.small-text{
+    color: #2563EB; 
+    font-size: 10px; 
+    font-weight: semi-bold; 
+    padding: 10px;
+}
+
 /* card section */
 .card-section{
     display: flex;
