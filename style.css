@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+body{
+      font-family: "Inter", sans-serif;
+}
+
+.nav-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1050px;
+    margin: auto;
+    padding: 15px 0;
+}
+.logo-div img{
+    width: 94px;
+    height: auto;
+}
+
+div .navbar{
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+    
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+/* button */
+.register-button, .register-button > a{
+    background-color: #1D4ED8;
+    width: 188px;
+    height: 48px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    border:none;
+    text-decoration: none;
+    padding: 12px;
+}
+
+
+/* hero section */
+.hero-section{
+    margin: 0;
+    min-height: 100vh;
+    background-image: url('/B14-A01-DevConf-2026/assets/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bold-text{
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.hero-section{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.large-button{
+    background-color: #1D4ED8;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+    border:none;
+    text-decoration: none;
+    padding: 12px;
+    width: 282px;
+    height: 74px;
+}
+
+.large-button a{
+    text-decoration: none;
+    color: white;
+}
+
+/* main section */
+.main-section, .card-section{
+    max-width: 1050px;
+    margin: auto;
+    padding-left: 60px;
+    margin-bottom: 45px;
+}
+
+.main-section-title{
+    font-weight: bold; 
+    font-size: 56px; 
+    text-align: center; 
+    margin-top: 80px;
+    margin-bottom: 56px;
+}
+
+.first-row, .second-row{
+    display: flex;
+    gap: 32px;
+    margin-bottom: 32px;
+}
+
+.first-row img, .second-row img{
+   height: 240px;
+   width: auto;
+   border-radius: 10px;
+}
+
+.left-div1, .right-div1, .left-div2, .right-div2{
+       border: 1px solid gray;
+       border-radius: 10px;
+
+}
+
+/* card section */
+.card-section{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+}
+.grey-text{
+    font-size: 16px; 
+    font-weight:normal; 
+    text-align: center; 
+    color: #575757; 
+    margin-top: 5px;
+}
+
+.three-card{
+    display: flex;
+    justify-content: space-around;
+    align-items:ce;
+}
