@@ -88,7 +88,7 @@ ul li a{
     height: 74px;
 }
 
-.large-button a{
+.large-button{
     text-decoration: none;
     color: white;
 }
@@ -127,6 +127,14 @@ ul li a{
 
 }
 
+.speaker-info{
+    color: #575757; 
+    font-size: 14px; 
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
 .small-text{
     color: #2563EB; 
     font-size: 10px; 
@@ -135,22 +143,56 @@ ul li a{
 }
 
 /* card section */
-.card-section{
+.card-div{
     display: flex;
-    flex-direction: column;
-    justify-content:space-around;
+    /* flex-direction: column; */
+    justify-content:space-between;
     align-items: center;
 }
+
 .grey-text{
-    font-size: 16px; 
-    font-weight:normal; 
-    text-align: center; 
-    color: #575757; 
-    margin-top: 5px;
+    
+    /* font-weight:normal;  */
+    /* text-align: center;  */
+    color: #888888; 
+    margin: 5px;
+    font-size: 13px;
 }
 
-.three-card{
+.card-div{
+    margin-top: 48px;
     display: flex;
-    justify-content: space-around;
-    align-items:ce;
+    justify-content: space-evenly;
+    align-items:center;
 }
+
+.normal-card{
+    font-size: 14px;
+    border: 2px solid gainsboro;
+    padding: 32px;
+    text-align: left;
+    border-radius: 13px;
+}
+
+.divider {
+    height: 1px;
+    background: gray;
+    margin: 20px 0;
+}
+.card-list > li{
+    padding: 5px;
+}
+.card-unorder > li{
+    color: gray;
+}
+
+.card-button{
+    margin-top: 12px;
+    padding: 10px;
+    width: 250px;
+    margin-left: 0;
+    margin-right: auto;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
