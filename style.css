@@ -51,7 +51,8 @@ div .navbar{
 .hero-section{
     margin: 0;
     min-height: 100vh;
-    background-image: url('/B14-A01-DevConf-2026/assets/banner.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/B14-A01-DevConf-2026/assets/banner.jpg');
+    /* background-image:  url('/B14-A01-DevConf-2026/assets/banner.jpg'); */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -97,7 +98,7 @@ div .navbar{
 
 /* main section */
 .main-section{
-    max-width: 100%;
+    max-width: 1000px;
     margin: auto;
     padding: 0 80px;
     margin-bottom: 45px;
@@ -180,7 +181,7 @@ div .navbar{
     padding: 32px;
     /* text-align: left; */
     border-radius: 13px;
-    
+
 }
 
 .divider {
@@ -208,15 +209,55 @@ div .navbar{
 
 
 /* footer section */
-#footer-div{
-   max-width: 100%;
-    height: 154px;
-    background-color: #0D1B2A;
-    color: rgba(255, 255, 255, 0.4);
-    font-weight: 200;
-    font-size: 12px;
+
+ footer {
+    font-size: 14px;
+    background: #111827;
+    padding: 30px 0;
+   
+}
+
+#footer-div {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
+.left-div p {
+   color: rgba(255, 255, 255, 0.4);
+}
+
+.right-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    gap: 15px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #2563EB;
+}
+
+.footer-links {
+    color: rgba(255, 255, 255, 0.4);
+    display: flex;
+    gap: 20px;
+}
+
+.footer-links a:hover {
+    color: #2563EB;
+}
