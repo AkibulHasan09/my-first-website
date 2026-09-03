@@ -100,7 +100,7 @@ Example:
 [  https://github.com/AkibulHasan09/dev-conf-2026](https://github.com/AkibulHasan09/my-first-website)
 
 * 🌐 **Live Demo:**
- [ Add your live link here](https://akibulhasan09.github.io/my-first-website/)
+https://akibulhasan09.github.io/my-first-website/
 
 
 
