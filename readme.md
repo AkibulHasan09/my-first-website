@@ -1,21 +1,3 @@
-# 🚀 DevConf 2026
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=200&section=header&text=DevConf%202026&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
-<p align="center">
-  <strong>The Premier Developer Conference of 2026</strong>
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#technologies-used">Technologies</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#live-demo">Live Demo</a>
-</p>
-
----
 
 ## 📌 Project Overview
 
@@ -27,15 +9,6 @@ The website provides visitors with essential information about the conference wh
 
 ---
 
-## 📸 Project Screenshot
-
-> Add your project screenshot here.
-
-<p align="center">
-  <img src="./assets/devconf-preview.png" alt="DevConf 2026 Website Preview" width="100%">
-</p>
-
----
 
 ## ✨ Features
 
@@ -115,44 +88,21 @@ The website should now be running locally.
 ## 🌐 Live Demo
 
 🔗 **Live Website:**
-[Add your live website link here]
+https://akibulhasan09.github.io/my-first-website/
 
 Example:
 
-```text
-https://your-live-site-url.com
-```
 
----
 
 ## 🔗 Relevant Links
 
 * 📂 **GitHub Repository:**
-  https://github.com/AkibulHasan09/dev-conf-2026
+[  https://github.com/AkibulHasan09/dev-conf-2026](https://github.com/AkibulHasan09/my-first-website)
 
 * 🌐 **Live Demo:**
-  Add your live link here
+ [ Add your live link here](https://akibulhasan09.github.io/my-first-website/)
 
-* 💼 **LinkedIn:**
-  https://www.linkedin.com/in/akibul-hasan-62a1a2228/
 
----
-
-## 📁 Project Structure
-
-```text
-dev-conf-2026/
-│
-├── assets/
-│   ├── images/
-│   └── devconf-preview.png
-│
-├── index.html
-├── style.css
-└── README.md
-```
-
----
 
 ## 🎯 Project Goals
 
