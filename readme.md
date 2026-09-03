@@ -16,12 +16,8 @@ The website provides visitors with essential information about the conference wh
 * 🛠️ **Hands-on Workshops** — Discover practical workshops and learning opportunities.
 * 🚀 **Hackathon Details** — Information about the DevConf 2026 hackathon.
 * 🤝 **Community & Networking** — Connect with engineers, founders, and builders.
-* 💼 **Developer Job Board** — Discover relevant career opportunities.
 * 📍 **Venue Information** — Find conference venue and event details.
-* ❓ **FAQ Section** — Get answers to frequently asked questions.
 * 📩 **Newsletter Signup** — Stay updated with DevConf announcements.
-* 📸 **Past Highlights** — Explore memorable moments from previous events.
-* 📱 **Responsive Design** — Optimized for desktop, tablet, and mobile devices.
 * 🎨 **Modern Card-Based UI** — Clean sections with visually engaging cards and typography.
 
 ---
